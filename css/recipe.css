@@ -1,0 +1,33 @@
+body {
+	background-color: #f7f2ed;
+	color: #e8beb0;
+  	font-size: 20px;
+  	text-align: center;
+  	font-family: 'Overpass Mono', monospace;
+    marker-mid: 100px;
+}
+
+.navbar {
+
+  color: white;
+  background-color: #e8beb0!important;
+  font-family: 'Overpass Mono:700', monospace;
+  font-size: 70px;
+} 
+
+.col-md-8 col-md-offset-2 {
+
+	background-color: #f7f2ed!important;
+}
+
+
+.porridge{
+
+	font-family: 'Overpass Mono:700', monospace;
+	font-size: 40px;
+}
+
+.bgcolor{
+
+	background-color: #f7f2ed;
+}

@@ -1,0 +1,125 @@
+body {
+	background-color: #f7f2ed;
+	color: #e8beb0;
+  	font-size: 20px;
+  	text-align: center;
+  	font-family: 'Overpass Mono', monospace;
+    marker-mid: 100px;
+}
+
+.intro {
+  color: white;
+  font-size: 60px;
+  font-family: 'Overpass Mono:700', monospace
+}
+
+.intro1 {
+  color: white;
+  font-size: 20px;
+  font-family: 'Overpass Mono',monospace
+}
+
+
+.header{
+  text-align: center;
+  background-image: url(../img/pic.jpg);
+  background-size: cover;
+  padding: 200px;
+  margin: px
+  color: white;
+}
+
+.headerimage{
+
+  margin-right: 0;
+  margin-left: 0;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.question {
+
+  text-align: left;
+}
+
+.footer{
+  padding: 30px;
+  background: #edcdc2;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+.footer a:hover {
+  color: white;
+}
+
+.center {
+  text-align: center;
+  margin: 100;
+}
+
+
+
+
+.row1 {
+
+  margin-top: 50px;
+}
+
+.col-md-6 {
+
+  margin-top: 100px;
+}
+
+
+.green {
+
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-title {
+
+  text-align: center;
+  font-weight: 30px;
+  font-size: 35px;
+  font-family: 'Overpass Mono:700', monospace
+}
+
+.about {
+
+  text-align: left;
+  font-size: 20px;
+}
+
+.card-footer{
+
+  color:#e8beb0;
+
+}
+
+.navbar {
+
+  color: white;
+  background-color: #e8beb0!important;
+  font-family: 'Overpass Mono:700', monospace;
+  font-size: 70px;
+} 
+
+
+.btnblk{
+
+  background-color: white!important;
+  border-color: white;
+  font-size: 15px;
+  color: #e8beb0;
+  box-shadow: white;
+}
+
